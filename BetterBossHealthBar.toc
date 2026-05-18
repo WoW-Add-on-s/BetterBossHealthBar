@@ -1,0 +1,11 @@
+## Interface: 120001
+## Title: Better Boss Health Bar
+## Notes: Customizable boss health and cast bars for dungeons and raids (Midnight)
+## Author: BBHB
+## Version: 1.0.0
+## SavedVariables: BetterBossHealthBarDB
+## IconTexture: Interface\Icons\Achievement_Boss_Onyxia
+
+Core.lua
+Bars.lua
+Options.lua
